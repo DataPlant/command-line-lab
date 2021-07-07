@@ -124,3 +124,5 @@ Be sure you open up your `my-favorite-things` directory in your code editor, so 
 - **MAN PAGES!** ([see "RTFM"](https://en.wikipedia.org/wiki/RTFM)) The entire development community prizes self-reliance as a virtue. To succeed, developers need to persistent and driven solve problems on their own. Of course we'll guide you, keep an eye on you, and answer questions, but as we do so we will focus on instilling/enhancing this quality in our developers throughout the entire class.
 - A list of [CLI Shortcuts](https://gist.github.com/alexpchin/01caa027b825d5f98871)
 - An awesome Unix command [cheatsheet](https://github.com/veltman/clmystery/blob/master/cheatsheet.md)
+
+efefefefef
